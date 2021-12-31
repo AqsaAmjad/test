@@ -1,0 +1,22 @@
+global.css:
+
+ @media screen and (min-width: 1024px) {
+  .BackgroundHeight{
+    height: 426px !important;
+  }
+  }
+  @media screen and (min-device-width: 768px) and (max-device-width: 1023px){
+    .BackgroundHeight{
+      height: 313px!important;
+    }
+    }
+    @media screen and (min-device-width: 481px) and (max-device-width: 768px){
+      .BackgroundHeight{
+        height: 256px;
+      }
+    }
+   @media screen and (min-device-width: 320px){
+  .BackgroundHeight{
+    height: 235px;
+  }
+   }

@@ -1,0 +1,13 @@
+global.css:
+
+.mainContainer .swiper-pagination-bullet {
+  @apply bg-gray20 w-1.5 h-1.5 sm:w-2 sm:h-2 ;
+}
+.mainContainer .swiper-button-disabled{
+@apply hidden !important;
+}
+.mainContainer .swiper-pagination{
+ display: flex !important;
+ justify-content: center !important;
+ align-items: center !important;
+}

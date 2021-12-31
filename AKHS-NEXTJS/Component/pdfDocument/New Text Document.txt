@@ -1,0 +1,6 @@
+global.css:
+
+.k-pdf-export {
+  width: 100%;
+ padding: 3rem;
+}

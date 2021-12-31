@@ -1,0 +1,5 @@
+global.css: 
+
+.LogoDiv{
+  width: 42rem !important;
+}

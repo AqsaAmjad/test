@@ -1,0 +1,9 @@
+
+.wrapContent::-webkit-scrollbar{
+  display: none !important;
+}
+.wrapContent::-webkit-scrollbar{
+  -ms-overflow-style: none; 
+  scrollbar-width: none;
+  overflow-y: scroll; 
+}
