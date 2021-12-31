@@ -1,0 +1,17 @@
+{
+    "copyright_year_start" : {
+        "key" : "copyright_year_start",
+        "value" : "1967",
+        "defaultValue" : "1967",
+        "enable" : true,
+        "category" : "Footer"
+    },
+    "copyright_year_end" : {
+        "key" : "copyright_year_end",
+        "value" : "%javascript: = new Date().getFullYear();",
+        "defaultValue" : "2021",
+        "enable" : true,
+        "category" : "Footer"
+    }
+        
+}

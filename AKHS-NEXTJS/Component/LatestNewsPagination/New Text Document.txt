@@ -1,0 +1,17 @@
+a.prevBttns.paginationDisable {
+  color: #0162FF;
+}
+a.nextBttns.paginationDisable {
+  color: #808080;
+}
+a.prevBttns.paginationDisable {
+  color: #808080;
+}
+ a.prevBttns {
+  color: #0162FF;
+  font-weight: normal;
+}
+a.nextBttns {
+  color:#0162FF;
+font-weight:normal;
+}

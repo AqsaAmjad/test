@@ -1,0 +1,11 @@
+global.css:
+
+
+.card1:hover svg path,
+.card1:hover{
+  fill:  #464646 !important;
+  }
+  .card2:hover svg path,
+.card2:hover{
+  fill: #D12D2D !important;
+  }

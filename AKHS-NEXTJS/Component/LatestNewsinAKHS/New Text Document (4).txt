@@ -1,0 +1,23 @@
+tailwind.config.js:
+
+borderWidth: {
+        5: "5px",
+        7: "7px"
+      },
+ fontSize: {
+        15: "15px",
+        22: "22px",
+        28: "28px",
+        40: "40px",
+        18: "18px"
+      },
+color:{
+   gray36: "#808080",
+}
+   lineHeight: {
+        4.5: "18px",
+        6.5: "26px",
+        30: "30px",
+        34: "34px"
+        22: "22px"
+      },
